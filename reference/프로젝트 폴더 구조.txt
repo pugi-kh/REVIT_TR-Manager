@@ -1,0 +1,27 @@
+MyHousingManager/
+├── docs/                ← 기획, 요구사항, 설계 문서 (명세서)
+│   ├── 기능정의서.md
+│   ├── UI흐름도.png
+│   └── 클래스다이어그램.png
+│
+├── diagrams/            ← UML, 설계 다이어그램 이미지들
+│   ├── class-diagram.png
+│   └── sequence-diagram.png
+│
+├── src/                 ← 실제 개발 코드
+│   ├── HousingManager.csproj
+│   ├── App.xaml
+│   ├── MainWindow.xaml.cs
+│   ├── Views/          ← UI 구성 WPF 창들
+│   ├── Models/         ← 데이터 구조 클래스 (예: Unit.cs, Floor.cs)
+│   └── Services/       ← Revit API 처리, 데이터 로딩 등
+│
+├── assets/              ← 아이콘, 이미지, UI에 들어갈 리소스
+│
+├── database/            ← DB 연동 시 SQL 스크립트나 ERD
+│   └── housing_schema.sql
+│
+├── test/                ← 테스트용 코드, 샘플 모델 파일
+│
+└── README.md            ← 프로젝트 설명
+
