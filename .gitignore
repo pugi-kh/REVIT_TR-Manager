@@ -4,3 +4,6 @@
 # 작업 초기 정리되지 않은 문서
 roughDocs/
 test.py
+
+# 무시할 파일 명시
+ignore_*
