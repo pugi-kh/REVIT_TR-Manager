@@ -1,7 +1,7 @@
 ## 🏗️ Revit 기반 주택 관리 프로그램
 
 ### 📘 프로젝트 개요
-- **프로그램 이름**: TR-Manager
+- **프로그램 이름**: ResidenceManager
 - **목적**: Revit 모델링된 건물의 Room 요소를 기반으로, GUI 기반의 세대/층/건물 정보를 통합적으로 관리
 - **형태**: Revit Add-in으로 제작되며, Revit을 실행한 상태에서 GUI를 통해 정보 관리 수행
 - **관리 운영 구조**:
@@ -15,19 +15,6 @@
 - 층별 필터링 기능
 - 세대별 문의내역 관리
 - 전체 문의내역 통합 조회
-
-### 📁 폴더 구조 제안
-```
-MyHousingPlugin/
-├── docs/                ← 명세서, 시나리오, 기술정리 등
-├── diagrams/            ← 클래스/시퀀스 다이어그램 등 이미지
-├── src/                 ← C# 코드 (WPF + Revit API)
-│   ├── Models/
-│   ├── Views/
-│   ├── Services/
-├── ResidenceInfo/       ← 세대별 JSON 저장 위치 (room-101.json 등)
-└── assets/              ← UI 아이콘, 이미지 등
-```
 
 ### ⚙️ 기술 스택
 | 항목         | 사용 기술                  |
