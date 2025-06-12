@@ -1,0 +1,14 @@
+C:\Users\kihoonkwon\Programing\Revit_ResidenceManager\practice\RevitAddin_practice\bin\Debug\net8.0-windows\RevitAddin_practice.dll.config
+C:\Users\kihoonkwon\Programing\Revit_ResidenceManager\practice\RevitAddin_practice\bin\Debug\net8.0-windows\RevitAddin_practice.deps.json
+C:\Users\kihoonkwon\Programing\Revit_ResidenceManager\practice\RevitAddin_practice\bin\Debug\net8.0-windows\RevitAddin_practice.dll
+C:\Users\kihoonkwon\Programing\Revit_ResidenceManager\practice\RevitAddin_practice\bin\Debug\net8.0-windows\RevitAddin_practice.pdb
+C:\Users\kihoonkwon\Programing\Revit_ResidenceManager\practice\RevitAddin_practice\obj\Debug\net8.0-windows\RevitAddin_practice.csproj.AssemblyReference.cache
+C:\Users\kihoonkwon\Programing\Revit_ResidenceManager\practice\RevitAddin_practice\obj\Debug\net8.0-windows\RevitAddin_practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kihoonkwon\Programing\Revit_ResidenceManager\practice\RevitAddin_practice\obj\Debug\net8.0-windows\RevitAddin_practice.AssemblyInfoInputs.cache
+C:\Users\kihoonkwon\Programing\Revit_ResidenceManager\practice\RevitAddin_practice\obj\Debug\net8.0-windows\RevitAddin_practice.AssemblyInfo.cs
+C:\Users\kihoonkwon\Programing\Revit_ResidenceManager\practice\RevitAddin_practice\obj\Debug\net8.0-windows\RevitAddin_practice.csproj.CoreCompileInputs.cache
+C:\Users\kihoonkwon\Programing\Revit_ResidenceManager\practice\RevitAddin_practice\obj\Debug\net8.0-windows\RevitAddin_practice.sourcelink.json
+C:\Users\kihoonkwon\Programing\Revit_ResidenceManager\practice\RevitAddin_practice\obj\Debug\net8.0-windows\RevitAddin_practice.dll
+C:\Users\kihoonkwon\Programing\Revit_ResidenceManager\practice\RevitAddin_practice\obj\Debug\net8.0-windows\refint\RevitAddin_practice.dll
+C:\Users\kihoonkwon\Programing\Revit_ResidenceManager\practice\RevitAddin_practice\obj\Debug\net8.0-windows\RevitAddin_practice.pdb
+C:\Users\kihoonkwon\Programing\Revit_ResidenceManager\practice\RevitAddin_practice\obj\Debug\net8.0-windows\ref\RevitAddin_practice.dll

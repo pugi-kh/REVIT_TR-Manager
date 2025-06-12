@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command RevitAddin_practice</Text>
+    <Description>Some description for RevitAddin_practice</Description>
+    <Assembly>RevitAddin_practice.dll</Assembly>
+    <FullClassName>RevitAddin_practice.Command</FullClassName>
+    <ClientId>c4cd2351-1205-4042-ba43-97fcc1e974b9</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application RevitAddin_practice</Name>
+    <Assembly>RevitAddin_practice.dll</Assembly>
+    <FullClassName>RevitAddin_practice.App</FullClassName>
+    <ClientId>0e1f516f-ad5d-4314-84b5-c5bd84abea38</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
